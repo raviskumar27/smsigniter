@@ -1,0 +1,1 @@
+This project is using CodeIgniter as the PHP framework and Gnokii engine to send and recieve SMS.
